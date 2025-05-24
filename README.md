@@ -1,55 +1,59 @@
 <h1 align="center">Hi 👋, I'm Anwar Fathi Alamir</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | Encryption Enthusiast | Code & Coffee Addict</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Encryption Animation" width="400"/>
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarfathi70&label=Profile%20views&color=0e75b6&style=flat" alt="anwarfathi70" /> </p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anwarfathi70" alt="anwarfathi70" />
-  </a> 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="encryption animation" />
 </p>
 
-- 🔭 I’m currently working on **Encryption programs**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anwarfathi70&label=Profile%20views&color=0e75b6&style=flat" alt="anwarfathi70" />
+</p>
 
-- 🌱 I’m currently learning **Encryption**
+---
 
-- 📫 How to reach me **anwarfathi.bus@gmail.com**
+- 🔭 I’m currently working on **encryption-based applications**
+- 🌱 I’m currently learning **advanced cryptography**
+- 📫 Reach me at **anwarfathi.bus@gmail.com**
+- ⚡ Fun fact: I encrypt my coffee ☕ just in case someone tries to decode my energy.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anwarfathi70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwarfathi70" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anwarfathi71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarfathi71" height="30" width="40" /></a>
-<a href="https://fb.com/anwarfathi70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwarfathi70" height="30" width="40" /></a>
-<a href="https://instagram.com/anwarfathi70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anwarfathi70" height="30" width="40" /></a>
-<a href="https://www.behance.net/anwarfathi70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anwarfathi70" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anwarfathi70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anwarfathi70" height="30" width="40" /></a>
+  <a href="https://twitter.com/anwarfathi70" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" /></a>
+  <a href="https://linkedin.com/in/anwarfathi71" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" /></a>
+  <a href="https://fb.com/anwarfathi70" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" /></a>
+  <a href="https://instagram.com/anwarfathi70" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" /></a>
+  <a href="https://www.behance.net/anwarfathi70" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="30" /></a>
+  <a href="https://www.youtube.com/c/anwarfathi70" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwarfathi70&show_icons=true&locale=en&layout=compact" alt="anwarfathi70" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarfathi70&show_icons=true&locale=en" alt="anwarfathi70" /></p>
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarfathi70&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwarfathi70&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center"><b>"Coding is my art, Encryption is my brush 🧠🔐🎨"</b></p>
