@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anwar Fathi Alamir</h1>
+<h1 align="center">Hi 👋, I'm Anwar Fathi Al-Amir</h1>
 <h3 align="center">Software Engineer | Encryption Enthusiast | Code & Coffee Addict</h3>
 
 <p align="center">
